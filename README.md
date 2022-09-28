@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naseemdabiran
-- 👀 I’m interested in Data Science and its applications in the healthcare field
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me: naseemdabiran@gmail.com
 
